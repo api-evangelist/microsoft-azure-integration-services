@@ -9,11 +9,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Integration
   - API Management
   - Enterprise
-  - Messaging
   - Event-Driven
+  - Integration
+  - Messaging
 url: >-
   https://raw.githubusercontent.com/api-evangelist/microsoft-azure-integration-services/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -31,10 +31,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/azure/api-management/
     baseURL: https://management.azure.com/
     tags:
-      - API Management
       - API Gateway
-      - Developer Portal
+      - API Management
       - Azure
+      - Developer Portal
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/api-management/
@@ -58,10 +58,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/azure/logic-apps/
     baseURL: https://management.azure.com/
     tags:
-      - Workflow Automation
+      - Azure
       - Integration
       - Low-Code
-      - Azure
+      - Workflow Automation
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/logic-apps/
@@ -85,10 +85,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/azure/service-bus-messaging/
     baseURL: https://management.azure.com/
     tags:
-      - Messaging
-      - Message Queue
-      - Publish-Subscribe
       - Azure
+      - Message Queue
+      - Messaging
+      - Publish-Subscribe
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/service-bus-messaging/
@@ -111,10 +111,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/azure/event-grid/
     baseURL: https://management.azure.com/
     tags:
-      - Event-Driven
-      - Pub-Sub
-      - Eventing
       - Azure
+      - Event-Driven
+      - Eventing
+      - Pub-Sub
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/event-grid/
@@ -135,10 +135,10 @@ apis:
     humanURL: https://learn.microsoft.com/en-us/azure/event-hubs/
     baseURL: https://management.azure.com/
     tags:
-      - Event Streaming
-      - Big Data
-      - Kafka
       - Azure
+      - Big Data
+      - Event Streaming
+      - Kafka
     properties:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/event-hubs/
