@@ -36,6 +36,8 @@ apis:
       - Azure
       - Developer Portal
     properties:
+      - url: openapi/microsoft-azure-integration-services-openapi.yml
+        type: OpenAPI
       - type: Documentation
         url: https://learn.microsoft.com/en-us/azure/api-management/
       - type: Reference
