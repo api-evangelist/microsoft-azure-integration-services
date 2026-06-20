@@ -5,7 +5,7 @@ description: >-
   applications, data, and processes across cloud and on-premises environments. It includes API Management, Logic Apps,
   Service Bus, Event Grid, and Event Hubs to enable enterprise integration, messaging, and event-driven architectures.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - API Management
   - Enterprise
@@ -23,7 +23,7 @@ apis:
       Azure API Management is a fully managed service that enables organizations to publish, secure, transform,
       maintain, and monitor APIs. It provides a gateway for routing API calls, enforcing usage policies, and providing
       developer portal capabilities for API consumers.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/azure/api-management/
     baseURL: https://management.azure.com/
     tags:
@@ -50,7 +50,7 @@ apis:
       Azure Logic Apps is a cloud-based platform for creating and running automated workflows that integrate apps, data,
       services, and systems. It provides a visual designer and hundreds of pre-built connectors to build workflows
       without writing code, enabling business process automation and enterprise integration scenarios.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/azure/logic-apps/
     baseURL: https://management.azure.com/
     tags:
@@ -75,7 +75,7 @@ apis:
       Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics.
       It decouples applications and services from each other, providing reliable asynchronous message delivery, ordered
       messaging, dead-lettering, and session support for complex integration workflows.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/azure/service-bus-messaging/
     baseURL: https://management.azure.com/
     tags:
@@ -100,7 +100,7 @@ apis:
       Azure Event Grid is a highly scalable, fully managed publish-subscribe event distribution service. It enables
       event-driven architectures by routing events from Azure services and custom sources to event handlers such as
       Azure Functions, Logic Apps, and webhooks, with support for filtering and fanout.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/azure/event-grid/
     baseURL: https://management.azure.com/
     tags:
@@ -123,7 +123,7 @@ apis:
       Azure Event Hubs is a big data streaming platform and event ingestion service capable of receiving and processing
       millions of events per second. It is used for telemetry ingestion, application logging, and real-time analytics
       pipelines, with support for Apache Kafka protocol, AMQP, and HTTPS.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/azure/event-hubs/
     baseURL: https://management.azure.com/
     tags:
