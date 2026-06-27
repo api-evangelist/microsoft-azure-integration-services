@@ -173,7 +173,7 @@ common:
     url: https://portal.azure.com/
   - type: Login
     url: https://portal.azure.com/
-  - type: SignUp
+  - type: Signup
     url: https://azure.microsoft.com/en-us/free/
 maintainers:
   - FN: Kin Lane
