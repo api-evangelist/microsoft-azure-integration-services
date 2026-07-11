@@ -143,6 +143,8 @@ apis:
       - type: Client Libraries
         url: https://learn.microsoft.com/en-us/azure/event-hubs/sdks
 common:
+  - type: OAuthScopes
+    url: scopes/microsoft-azure-integration-services-scopes.yml
   - type: Portal
     url: https://portal.azure.com/
   - type: Website
