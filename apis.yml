@@ -143,6 +143,10 @@ apis:
       - type: Client Libraries
         url: https://learn.microsoft.com/en-us/azure/event-hubs/sdks
 common:
+  - type: DomainSecurity
+    url: security/microsoft-azure-integration-services-domain-security.yml
+  - type: Authentication
+    url: authentication/microsoft-azure-integration-services-authentication.yml
   - type: OAuthScopes
     url: scopes/microsoft-azure-integration-services-scopes.yml
   - type: Portal
