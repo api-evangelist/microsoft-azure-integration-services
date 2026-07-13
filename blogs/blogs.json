@@ -2,13 +2,14 @@
   "repo": "microsoft-azure-integration-services",
   "feeds": [
     {
-      "source": "https://techcommunity.microsoft.com/category/azure/blog/integrationsonazureblog",
-      "feed_url": "",
+      "source": "https://azure.microsoft.com/en-us/pricing/",
+      "feed_url": "https://azure.microsoft.com/en-us/pricing/",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 11,
-  "fetched": "2026-06-27T12:54:04Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
