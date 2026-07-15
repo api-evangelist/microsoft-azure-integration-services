@@ -143,6 +143,8 @@ apis:
       - type: Client Libraries
         url: https://learn.microsoft.com/en-us/azure/event-hubs/sdks
 common:
+  - type: AgenticAccess
+    url: agentic-access/microsoft-azure-integration-services-agentic-access.yml
   - type: DomainSecurity
     url: security/microsoft-azure-integration-services-domain-security.yml
   - type: Authentication
