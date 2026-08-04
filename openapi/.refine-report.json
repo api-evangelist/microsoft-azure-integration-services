@@ -1,0 +1,16 @@
+{
+  "provider": "microsoft-azure-integration-services",
+  "sources": [
+    "microsoft-azure-integration-services-operations-api-openapi.yml",
+    "microsoft-azure-integration-services-services-api-openapi.yml"
+  ],
+  "outputs": [
+    "microsoft-azure-integration-services-operations-api-openapi.yml",
+    "microsoft-azure-integration-services-services-api-openapi.yml"
+  ],
+  "archived": [],
+  "errors": [],
+  "warnings": [],
+  "notes": [],
+  "skipped": []
+}
