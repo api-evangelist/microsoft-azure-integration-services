@@ -44,6 +44,11 @@ apis:
   - Azure
   - Integration
   - Low-Code
+  - Workflow-Automation
+  tags_raw:
+  - Azure
+  - Integration
+  - Low-Code
   - Workflow Automation
   properties:
   - type: Documentation
@@ -67,6 +72,11 @@ apis:
   humanURL: https://learn.microsoft.com/en-us/azure/service-bus-messaging/
   baseURL: https://management.azure.com/
   tags:
+  - Azure
+  - Message Queue
+  - Messaging
+  - Publish Subscribe
+  tags_raw:
   - Azure
   - Message Queue
   - Messaging
@@ -137,7 +147,8 @@ apis:
   description: Operations operations
   humanURL: https://learn.microsoft.com/en-us/azure/api-management/
   baseURL: https://management.azure.com/
-  tags:
+  tags: []
+  tags_raw:
   - Operations
   properties:
   - type: OpenAPI
