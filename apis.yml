@@ -5,6 +5,18 @@ description: >-
   applications, data, and processes across cloud and on-premises environments. It includes API Management, Logic Apps,
   Service Bus, Event Grid, and Event Hubs to enable enterprise integration, messaging, and event-driven architectures.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: true
+  label: Hosted service · you call their endpoint
+  confidence: high
+  source:
+  - openapi
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: self-serve
