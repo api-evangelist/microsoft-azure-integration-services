@@ -198,6 +198,9 @@ apis:
   - type: ChangeLog
     url: https://learn.microsoft.com/en-us/azure/api-management/release-notes
 common:
+  - type: CapabilityMap
+    url: capabilities/microsoft-azure-integration-services-capability-edges.yml
+    name: Microsoft Azure Integration Services Business Capability Map
   - type: AgenticAccess
     url: agentic-access/microsoft-azure-integration-services-agentic-access.yml
   - type: DomainSecurity
