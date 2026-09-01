@@ -87,7 +87,7 @@ apis:
   - Azure
   - Message Queue
   - Messaging
-  - Publish-Subscribe
+  - Publish Subscribe
   tags_raw:
   - Azure
   - Message Queue
