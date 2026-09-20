@@ -191,6 +191,8 @@ apis:
   - type: ChangeLog
     url: https://learn.microsoft.com/en-us/azure/api-management/release-notes
 common:
+- type: Plans
+  url: plans/microsoft-azure-integration-services-plans-pricing.yml
 - type: CapabilityMap
   url: capabilities/microsoft-azure-integration-services-capability-edges.yml
   name: Microsoft Azure Integration Services Business Capability Map
