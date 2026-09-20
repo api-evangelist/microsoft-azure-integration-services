@@ -10,6 +10,13 @@ provenance:
   grounding: every price_text was found verbatim in the fetched page text
 audience: developer-api
 pricing_basis: per-call
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-09-20'
+  evidence: Leverage the containerized runtime to run Logic Apps locally, in the cloud, or on premises
+    with virtual network capabilities.
+  managed_tier: Consumption Plan (Multi-tenant)
 published: false
 note: No numeric price is published on the pricing page; Azure Logic Apps pricing page rendered with all
   price values as "$-" placeholders (region/currency selector did not resolve), so no numeric prices are
