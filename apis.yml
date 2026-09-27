@@ -55,12 +55,13 @@ apis:
   - Azure
   - Integration
   - Low-Code
-  - Workflow-Automation
+  - Workflow Automation
   tags_raw:
   - Azure
   - Integration
   - Low-Code
   - Workflow Automation
+  - Workflow-Automation
   properties:
   - type: Documentation
     url: https://learn.microsoft.com/en-us/azure/logic-apps/
